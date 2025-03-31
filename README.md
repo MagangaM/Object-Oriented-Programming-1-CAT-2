@@ -46,11 +46,6 @@ Enter second number: 0
 Cannot divide by zero!
 ```
 
-## Submission Guidelines
-- Ensure all Java files are included.
-- The repository should be publicly accessible.
-- Submit the GitHub repository link as per the CAT requirements.
-
 ## Author
 Makau Nathan Maganga 
 
