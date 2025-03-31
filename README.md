@@ -52,5 +52,5 @@ Cannot divide by zero!
 - Submit the GitHub repository link as per the CAT requirements.
 
 ## Author
-Makau Nathan Maganga
+Makau Nathan Maganga 
 
